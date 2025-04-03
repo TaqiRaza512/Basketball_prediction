@@ -8,7 +8,7 @@ This project predicts player success and groups players based on their stats.
 
 ## 🚀 Project Summary
 
-* We analyzed basketball player data.
+* I analyzed basketball player data.
 * Built models to predict player "Target" (success).
 * Used clustering to find player groups.
 
