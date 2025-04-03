@@ -2,9 +2,9 @@
 
 This project predicts player success and groups players based on their stats.
 
-**View the Notebook:**
+**Explore the analysis:**
 
-* [Notebook (nbviewer)](https://github.com/TaqiRaza512/Basketball_prediction/blob/main/basketball-classification-and-clustering.ipynb) *(Replace with your GitHub link)*
+[![View Notebook](https://img.shields.io/badge/Open%20Notebook-GitHub%20View-orange)](https://github.com/TaqiRaza512/Basketball_prediction/blob/main/basketball-classification-and-clustering.ipynb)
 
 ## 🚀 Project Summary
 
